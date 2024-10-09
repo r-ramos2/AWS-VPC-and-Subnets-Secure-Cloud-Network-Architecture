@@ -5,6 +5,7 @@
 This project focuses on the creation and configuration of a secure AWS Virtual Private Cloud (VPC), which includes public and private subnets, routing, security groups, and monitoring. It implements routing, access control, and monitoring to ensure a secure cloud architecture. By utilizing Infrastructure as Code (IaC) with Terraform, the architecture can be automated and maintained for scalability and consistency. It demonstrates the capabilities of building and securing AWS networks while adhering to cloud security best practices.
 
 <img width="926" alt="vpc_architecture" src="https://github.com/user-attachments/assets/2f8b9d32-d594-4104-83a1-2bd42e9818d8">
+
 *Architecture Diagram*
 
 ---
