@@ -28,9 +28,7 @@ This project focuses on the creation and configuration of a secure AWS Virtual P
 
 ## **Introduction**
 
-As organizations migrate to cloud environments, securing the underlying infrastructure becomes crucial. This project focuses on designing a **Virtual Private Cloud (VPC)** on AWS with public and private subnets. It implements **routing**, **access control**, and **monitoring** to ensure a **secure cloud architecture**. Additionally, **Infrastructure as Code (IaC)** is used with **Terraform** to automate and maintain the architecture for scalability and consistency.
-
-This comprehensive approach not only helps secure cloud environments but also demonstrates proficiency in automating infrastructure using **Terraform**—an essential skill in modern cloud security roles.
+As organizations migrate to cloud environments, securing the underlying infrastructure becomes crucial. This project focuses on designing a **Virtual Private Cloud (VPC)** on AWS with public and private subnets. It implements **routing**, **access control**, and **monitoring** to ensure a **secure cloud architecture**. Additionally, **Infrastructure as Code (IaC)** is used with **Terraform** to automate and maintain the architecture for scalability and consistency. This comprehensive approach not only helps secure cloud environments but also demonstrates proficiency in automating infrastructure using **Terraform**—an essential skill in modern cloud security roles.
 
 ---
 
