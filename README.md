@@ -22,7 +22,6 @@ This project focuses on the creation and configuration of a secure AWS Virtual P
 5. [How to Run Terraform Files](#how-to-run-terraform-files)
 6. [Conclusion](#conclusion)
 7. [References](#references)
-8. [Terraform Files](#terraform-files)
 
 ---
 
