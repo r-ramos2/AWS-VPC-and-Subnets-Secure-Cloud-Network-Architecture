@@ -21,7 +21,7 @@ This project focuses on the creation and configuration of a secure AWS Virtual P
    - [Monitoring and Logging](#monitoring-and-logging)
 5. [How to Run Terraform Files](#how-to-run-terraform-files)
 6. [Conclusion](#conclusion)
-7. [References](#references)
+7. [Resources](#resources)
 
 ---
 
@@ -194,6 +194,6 @@ This project illustrates the complete process of creating a secure and scalable 
 
 ---
 
-## **References**
+## **Resources**
 1. [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 2. [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
